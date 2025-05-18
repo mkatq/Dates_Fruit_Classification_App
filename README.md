@@ -14,7 +14,7 @@ Designed a mobile app for real-time classification of dates fruit images. The ap
 
 | ![1](https://res.cloudinary.com/drmiuvc9x/image/upload/assets/P4/1.png) | ![2](https://res.cloudinary.com/drmiuvc9x/image/upload/assets/P4/2.png) | ![3](https://res.cloudinary.com/drmiuvc9x/image/upload/assets/P4/3.png) |
 |---|---|---|
-| ![4](https://res.cloudinary.com/drmiuvc9x/image/upload/assets/P4/4.png) | ![5](https://res.cloudinary.com/drmiuvc9x/image/upload/assets/P4/5.png) | ![6](https://res.cloudinary.com/drmiuvc9x/image/upload/assets/P4/6.png) |
+
 
 ---
 
